@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.CSYOtlwJdQAkSfyqaf2ZBgHaF0%3Fpid%3DApi&f=1&ipt=7c2b2c844eef2da05213e81fdaf11f8ef7a5a5bdc1d576c08d8bb4d923f2e063&ipo=images",
+    "name": "LEGO Millennium Falcon"
+  },
+  {
+    "id": 2,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.zeEerYKOO40IzQbVCBmu8AHaGf%3Fpid%3DApi&f=1&ipt=bf2097b6d22410a95a5a8bf6cb9600e7ed343cf5de59d7b8febd8810316e78f0&ipo=images",
+    "name": "LEGO Titanic"
+  },
+  {
+    "id": 3,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Loa-ZiMZyjTTRleLPjxV6QHaJY%3Fpid%3DApi&f=1&ipt=b22c2ed668cd56b8b984e03ab6371ed3c58bbcfc5d53be13f044ec52d71e16d1&ipo=images",
+    "name": "LEGO Daily Bugle"
+  },
+  {
+    "id": 4,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.eD2DWSHtAtnV8nv5tpolwwHaG-%3Fpid%3DApi&f=1&ipt=8d7e971fb332122fd8cbf2909225cd1b8d4a6c5d7f8bbb6f64699c13e7f16943&ipo=images",
+    "name": "LEGO Hogwarts Castle"
+  },
+  {
+    "id": 5,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.JA7AmgpcfqSLlyOVgPMlxAHaG8%3Fpid%3DApi&f=1&ipt=2b4d6eb7301c37ad38cbc1dd18d4f957a7cabd928e7e1c4bcf2ef8c05067d162&ipo=images",
+    "name": "LEGO Creator Expert Roller Coaster"
+  },
+  {
+    "id": 6,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.P_6BPGsCQmuST9RqzTw7ggHaFu%3Fpid%3DApi&f=1&ipt=93185e5d86e72e8d86c510a2c139bf1fe2998dc14a6a63534dad217226273cba&ipo=images",
+    "name": "LEGO Ghostbusters Ecto-1"
+  },
+  {
+    "id": 7,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.-imG5c_uJ9qjnzcGoDgWXQHaG6%3Fpid%3DApi&f=1&ipt=3961794bcf02c26865fe11a6105698f4d5a7427b8d280136655f1922f477737c&ipo=images",
+    "name": "LEGO Ideas Tree House"
+  },
+  {
+    "id": 8,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.bzH16A8dExMxUFuOh0P0mwHaGW%3Fpid%3DApi&f=1&ipt=46655a71d1cf0ef8a27036596a84dd292c97defce8e033e3d1a197e28e8aa400&ipo=images",
+    "name": "LEGO Ferrari F40"
+  },
+  {
+    "id": 9,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIF.RWZY4rIT1tSnU0wkrTRtcA%3Fpid%3DApi&f=1&ipt=a432f45e7d7e70f9b4fc9ccf308034c4a3124e781f8c8dc78304e3ddfa9c9769&ipo=images",
+    "name": "LEGO Star Wars AT-AT"
+  },
+  {
+    "id": 10,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.e-6Sxao2mlDXm3V_s4ci3gHaHa%3Fpid%3DApi&f=1&ipt=bc6f6986d251d5504912462658ce3aa8538530a28daff7e6e7001e614a56694c&ipo=images",
+    "name": "LEGO Batman Tumbler"
+  }
+]
