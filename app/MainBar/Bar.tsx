@@ -27,7 +27,7 @@ const Bar = () => {
   return (
     <View style={barStyles.wrapper}>
       <View style={[mainStyles.container, {backgroundColor: theme.secondary}]}>
-        <Pressable onPress={() =>{ if (!isPremisionGranted){requestPremission}else{router.push('/scanner/')};}}>
+        <Pressable onPress={() =>{ !isPremisionGranted ? requestPremission : router.push('/scanner');}}>
           <QR color={theme.icons} svgWidth={24} svgHeight={24}></QR>
         </Pressable>
         <Text style={[mainStyles.mainText, {color: theme.text}]}>Collection</Text>
