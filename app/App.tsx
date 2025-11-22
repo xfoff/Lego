@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { StatusBar, Pressable } from 'react-native';
 import { SafeAreaProvider, SafeAreaView, initialWindowMetrics } from 'react-native-safe-area-context';
-import { Stack, router } from "expo-router"
 import { useTheme } from './Theme';
 import mainStyles from './Styles/MainStyles';
 import * as Font from 'expo-font';
