@@ -17,7 +17,7 @@ const inner = rrect(
   50
 );
 
-export default function Overlay() {
+export const Overlay = () => {
   return (
     <Canvas
       style={

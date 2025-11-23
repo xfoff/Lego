@@ -19,6 +19,11 @@ const Bar = () => {
   const { theme, toggleTheme } = useTheme();
   const [premision, requestPremission] = useCameraPermissions();
   const isPremisionGranted = Boolean(premision?.granted)
+  
+  const qrCodePressed = () => {
+        requestPremission()
+        router.push('/scanner');
+  }
 
   const hamburgerPressed = () => {
     setMenuOpen(!menuOpen);
@@ -27,7 +32,7 @@ const Bar = () => {
   return (
     <View style={barStyles.wrapper}>
       <View style={[mainStyles.container, {backgroundColor: theme.secondary}]}>
-        <Pressable onPress={() =>{ !isPremisionGranted ? requestPremission : router.push('/scanner');}}>
+        <Pressable onPress={!isPremisionGranted ? qrCodePressed : () => {router.push('/scanner');}}>
           <QR color={theme.icons} svgWidth={24} svgHeight={24}></QR>
         </Pressable>
         <Text style={[mainStyles.mainText, {color: theme.text}]}>Collection</Text>
