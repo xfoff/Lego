@@ -22,7 +22,7 @@ const Bar = () => {
   
   const qrCodePressed = () => {
         requestPremission()
-        router.push('/scanner');
+        setTimeout( () =>{router.push('/scanner');}, 500)
   }
 
   const hamburgerPressed = () => {
